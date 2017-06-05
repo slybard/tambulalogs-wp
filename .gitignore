@@ -3,6 +3,8 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+.gitattributes
+
 # VS code coverage files
 *.coverage
 *.coveragexml
@@ -27,6 +29,7 @@ _ReSharper*/
 
 # NuGet
 packages/
+*packages
 .nuget/
 
 #VS

@@ -1,6 +1,0 @@
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\Bin\ARM\Release\TambulaScheduledTaskAgent.dll
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\Bin\ARM\Release\TambulaScheduledTaskAgent.pdb
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\Bin\ARM\Release\Newtonsoft.Json.dll
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\Bin\ARM\Release\Newtonsoft.Json.xml
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\obj\ARM\Release\TambulaScheduledTaskAgent.dll
-D:\BACKUP\REPOS\TambulaLogs\TambulaScheduledTaskAgent\obj\ARM\Release\TambulaScheduledTaskAgent.pdb
