@@ -1,0 +1,133 @@
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# VS code coverage files
+*.coverage
+*.coveragexml
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.userosscache
+
+# NuGet
+packages/
+.nuget/
+
+#VS
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+
+#Submission files
+*/SubmissionInfo/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+
+#performance logs
+*/PerfLogs/
+
+#WP-Toolkit
+*/Toolkit.Content/
+*/README_FIRST*
+
+#assembly dependencies
+AssemblyDependencies1*
+
+#Exclude all images
+*.jpg
+*.jpeg
+*.png
+
+# RIA/Silverlight projects
+Generated_Code/
+
+#exclude other file types
+*.pdb
+*.dll
+*.obj
+*.exe
+*.db
+*.opendb
+
+#exclude other
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Windows image file caches if any
+Thumbs.db
+ehthumbs.db
+
+# Folder config file if any
+Desktop.ini
